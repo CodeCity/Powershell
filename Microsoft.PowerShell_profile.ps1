@@ -1,3 +1,17 @@
+<# 
+
+Powershell Profile
+Updated: 2018-01-15
+
+* Get-Weather
+* Chocolatey
+* Test-Administrator
+* posh-git
+* ChildItemColor
+
+#>
+
+
 <#
 .SYNOPSIS
 Get Weather of a City
